@@ -1,0 +1,10 @@
+| Component        | Technology       | Why?                        |
+| ---------------- | ---------------- | --------------------------- |
+| Backend          | FastAPI          | Fast, async, easy REST APIs |
+| Database         | PostgreSQL       | Reliable relational storage |
+| Vector DB        | ChromaDB (later) | Semantic search for RAG     |
+| Frontend         | React + Tailwind | Modern UI                   |
+| LLM              | Gemini/OpenAI    | Report generation           |
+| Scheduler        | APScheduler      | Automatic news collection   |
+| ORM              | SQLAlchemy       | Database interaction        |
+| Containerization | Docker           | Easy deployment             |
